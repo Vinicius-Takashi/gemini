@@ -1,0 +1,17 @@
+print(4.0);
+print(-3.0);
+print(7 + 2);
+print(7 + 2 + 1 + -4);
+print(3 - -5 - 7);
+print(7*5*3);
+print(7*-5.5 + 3);
+print(1/2/4);
+print(3/(3+3));
+print(7 % (2 + 3));
+print(2 ** -3 ** 2 * 2);
+print(2*PI);
+print(sin(PI/4));
+print(cos(PI/4));
+x = 3;
+y = 2*x - 8;
+print( x**-2 + 2 - y);
